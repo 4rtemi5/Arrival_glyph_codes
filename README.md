@@ -1,2 +1,6 @@
 #Arrival Glyphs Encoding/Decoding 
-> Better README to be provided.
+
+![clean sample image](/samples/AbbottChoosesSaveLouiseIan/AbbottChoosesSaveLouiseIan.00.jpg)
+
+
+![dirty sample image](/samples/AbbottChoosesSaveLouiseIan/AbbottChoosesSaveLouiseIan.03.jpg)
