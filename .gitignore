@@ -1,0 +1,11 @@
+# Sublime-specific files
+*.sublime-workspace
+
+# Python compiled files
+*.pyc
+
+# Samples and outputs
+*.jpg
+*.png
+*.mp4
+*.avi
